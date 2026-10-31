@@ -1,0 +1,7 @@
+pycbc>=2.8
+scikit-learn>=1.5
+numpy
+scipy
+pandas
+matplotlib
+joblib
